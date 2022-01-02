@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/gabrielrufino/math-proofs-as-tests#readme",
   "dependencies": {
+    "faker": "^5.5.3",
     "jest": "^27.4.5"
   }
 }
