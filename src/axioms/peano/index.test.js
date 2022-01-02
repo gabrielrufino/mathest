@@ -6,7 +6,7 @@ describe('Peano axioms', () => {
   it('For every natural number x, x = x. That is, equality is reflexive.', () => {
     const x = random.natural()
 
-    expect(x === x).toBe(true)
+    expect(x).toBe(x)
   })
 
   it('For all natural numbers x and y, if x = y, then y = x. That is, equality is symmetric.', () => {
