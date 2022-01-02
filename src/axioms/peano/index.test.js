@@ -1,4 +1,4 @@
-const {describe, it, expect} = require('@jest/globals')
+const { describe, it, expect } = require('@jest/globals')
 
 const random = require('../../helpers/random')
 
@@ -26,5 +26,5 @@ describe('Peano axioms', () => {
     if (x === y && y === z) {
       expect(x === z).toBe(true)
     }
-  });
+  })
 })

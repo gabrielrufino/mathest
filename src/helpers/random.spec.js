@@ -1,4 +1,4 @@
-const {describe, it, expect} = require('@jest/globals')
+const { describe, it, expect } = require('@jest/globals')
 
 const random = require('./random')
 
