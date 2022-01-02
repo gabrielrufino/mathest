@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gabrielrufino/math-proofs-as-tests/issues"
   },
-  "homepage": "https://github.com/gabrielrufino/math-proofs-as-tests#readme"
+  "homepage": "https://github.com/gabrielrufino/math-proofs-as-tests#readme",
+  "dependencies": {
+    "jest": "^27.4.5"
+  }
 }
