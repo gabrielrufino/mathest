@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "jest",
-    "lint": "standard"
+    "lint": "standard",
+    "reinstall": "rimraf node_modules && npm ci"
   },
   "repository": {
     "type": "git",
