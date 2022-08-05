@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "lint": "standard",
-    "reinstall": "rimraf node_modules && npm ci"
+    "reinstall": "npx rimraf node_modules && npm ci"
   },
   "repository": {
     "type": "git",
