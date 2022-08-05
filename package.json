@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/gabrielrufino/math-proofs-as-tests#readme",
   "dependencies": {
-    "@faker-js/faker": "^6.1.2",
-    "jest": "^27.4.7"
+    "@faker-js/faker": "^6.3.1",
+    "jest": "^27.5.1"
   },
   "devDependencies": {
     "rimraf": "^3.0.2",
