@@ -1,7 +1,7 @@
 {
   "name": "@gabrielrufino/math-in-jest",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Math concepts written in Jest",
   "main": "src/index.js",
   "scripts": {
