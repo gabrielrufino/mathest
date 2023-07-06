@@ -1,9 +1,9 @@
-# Math Proofs as Tests
+# Math in Jest
 
-Math Proofs using automated tests
+Math concepts written in Jest
 
-### Proofs list
+## Concepts list
 
-##### Axioms
+### Axioms
 
 * [Peano](./src/axioms/peano)

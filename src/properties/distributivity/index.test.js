@@ -1,13 +1,11 @@
-const { describe, it, expect } = require('@jest/globals')
-
-const random = require('../../helpers/random')
+const random = require('../../helpers/random');
 
 describe('Distributive property', () => {
   it('Multiplication', () => {
-    const x = random.real()
-    const y = random.real()
-    const z = random.real()
+    const x = random.real();
+    const y = random.real();
+    const z = random.real();
 
-    expect(x * (y + z)).toBe(x * y + x * z)
-  })
-})
+    expect(x * (y + z)).toBe(x * y + x * z);
+  });
+});
