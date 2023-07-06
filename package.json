@@ -1,5 +1,5 @@
 {
-  "name": "@gabrielrufino/math-as-tests",
+  "name": "@gabrielrufino/math-in-jest",
   "private": true,
   "version": "1.0.0",
   "description": "Math Proofs using automated tests",
@@ -21,9 +21,9 @@
   "author": "Gabriel Rufino <contato@gabrielrufino.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gabrielrufino/math-as-tests/issues"
+    "url": "https://github.com/gabrielrufino/math-in-jest/issues"
   },
-  "homepage": "https://github.com/gabrielrufino/math-as-tests#readme",
+  "homepage": "https://github.com/gabrielrufino/math-in-jest#readme",
   "dependencies": {
     "@faker-js/faker": "^6.3.1",
     "jest": "^27.5.1"
