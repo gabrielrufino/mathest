@@ -2,7 +2,7 @@
   "name": "@gabrielrufino/math-in-jest",
   "private": true,
   "version": "1.0.0",
-  "description": "Math Proofs using automated tests",
+  "description": "Math concepts written in Jest",
   "main": "src/index.js",
   "scripts": {
     "test": "jest",
