@@ -5,23 +5,9 @@ on:
   - workflow_dispatch
 
 jobs:
-  lint:
-    name: Lint
+  node-ci:
+    name: Node CI
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 18
-      - run: npm ci
-      - run: npm run lint
-  tests:
-    name: Tests
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 18
-      - run: npm ci
-      - run: npm test
+      - uses: gabrielrufino/node-ci@v1
