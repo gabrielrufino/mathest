@@ -1,7 +1,7 @@
 {
   "name": "@gabrielrufino/math-in-jest",
   "private": true,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Math concepts written in Jest",
   "main": "src/index.js",
   "scripts": {
@@ -32,7 +32,7 @@
   "devDependencies": {
     "@gabrielrufino/eslint-config": "^1.6.0",
     "eslint": "^8.56.0",
-    "eslint-plugin-jest": "^27.6.0",
+    "eslint-plugin-jest": "^27.6.3",
     "rimraf": "^5.0.5"
   }
 }
