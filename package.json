@@ -8,8 +8,7 @@
     "test": "jest",
     "lint": "eslint .",
     "lint:fix": "npm run lint -- --fix",
-    "postinstall": "husky",
-    "reinstall": "npx rimraf node_modules && npm ci"
+    "postinstall": "husky"
   },
   "repository": {
     "type": "git",
@@ -36,7 +35,6 @@
     "@gabrielrufino/eslint-config": "^1.6.0",
     "eslint": "^8.57.0",
     "eslint-plugin-jest": "^27.9.0",
-    "husky": "^9.1.4",
-    "rimraf": "^5.0.10"
+    "husky": "^9.1.4"
   }
 }
