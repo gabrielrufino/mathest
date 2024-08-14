@@ -1,5 +1,5 @@
 {
-  "name": "@gabrielrufino/math-in-jest",
+  "name": "mathest",
   "private": true,
   "version": "1.0.7",
   "description": "Math concepts written in Jest",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gabrielrufino/math-in-jest.git"
+    "url": "git+https://github.com/gabrielrufino/mathest.git"
   },
   "keywords": [
     "Math",
@@ -23,9 +23,9 @@
   "author": "Gabriel Rufino <contato@gabrielrufino.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gabrielrufino/math-in-jest/issues"
+    "url": "https://github.com/gabrielrufino/mathest/issues"
   },
-  "homepage": "https://github.com/gabrielrufino/math-in-jest#readme",
+  "homepage": "https://github.com/gabrielrufino/mathest#readme",
   "dependencies": {
     "@faker-js/faker": "^6.3.1",
     "jest": "^27.5.1"
