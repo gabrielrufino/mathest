@@ -1,7 +1,7 @@
 {
   "name": "mathest",
   "private": true,
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Math concepts written in Jest",
   "main": "src/index.js",
   "scripts": {
